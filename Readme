@@ -1,0 +1,13 @@
+# Accounts Payable Tool
+
+A basic open-source Accounts Payable (AP) tool for managing vendor invoices and payments.
+
+## Features
+- Add, update, and delete vendors.
+- Record invoices.
+- Process payments.
+- Generate reports.
+
+## Installation
+```bash
+pip install -r requirements.txt
